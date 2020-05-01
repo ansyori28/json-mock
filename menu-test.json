@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "USER",
+      "children": [
+        {
+          "id": "1",
+          "name": "User 1",
+          "url": "/admin/user/user-1"
+        },
+        {
+          "id": "2",
+          "name": "User 2",
+          "url": "/admin/user/user-2"
+        },
+        {
+          "id": "3",
+          "name": "User 3",
+          "url": "/admin/user/user-3"
+        },
+        {
+          "id": "4",
+          "name": "All User",
+          "url": "/admin/user/user-all"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "NEWS",
+      "children": [
+        {
+          "id": "1",
+          "name": "News Category",
+          "url": "/admin/neews-category"
+        },
+        {
+          "id": "2",
+          "name": "News Data",
+          "url": "/admin/news-data"
+        }
+      ]
+    }
+  ]
+}
