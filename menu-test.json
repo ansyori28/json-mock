@@ -7,22 +7,22 @@
         {
           "id": "1",
           "name": "Pengguna Admin",
-          "url": "/admin/user/user-admin"
+          "url": "/app/admin/user/user-admin"
         },
         {
           "id": "2",
           "name": "Pengguna Universitas",
-          "url": "/admin/user/user-university"
+          "url": "/app/admin/user/user-university"
         },
         {
           "id": "3",
           "name": "Pengguna Mahasiswa",
-          "url": "/admin/user/user-student"
+          "url": "/app/admin/user/user-student"
         },
         {
           "id": "4",
           "name": "Semua User",
-          "url": "/admin/user/user-all"
+          "url": "/app/admin/user/user-all"
         }
       ]
     },
@@ -33,12 +33,12 @@
         {
           "id": "1",
           "name": "Kategori Berita",
-          "url": "/admin/news-category"
+          "url": "/app/admin/news-category"
         },
         {
           "id": "2",
           "name": "Berita",
-          "url": "/admin/news"
+          "url": "/app/admin/news"
         }
       ]
     },
@@ -49,12 +49,12 @@
         {
           "id": "1",
           "name": "Jenjang Pendidikan",
-          "url": "/admin/educational-stage"
+          "url": "/app/admin/educational-stage"
         },
         {
           "id": "2",
           "name": "Education",
-          "url": "/admin/education"
+          "url": "/app/admin/education"
         }
       ]
     }
