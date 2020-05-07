@@ -1,0 +1,62 @@
+{
+  "data" : [
+    {
+      "id": "1",
+      "name": "PENGGUNA",
+      "children": [
+        {
+          "id": "1",
+          "name": "Pengguna Admin",
+          "url": "/app/admin/user/user-admin"
+        },
+        {
+          "id": "2",
+          "name": "Pengguna Universitas",
+          "url": "/app/admin/user/user-university"
+        },
+        {
+          "id": "3",
+          "name": "Pengguna Mahasiswa",
+          "url": "/app/admin/user/user-student"
+        },
+        {
+          "id": "4",
+          "name": "Semua User",
+          "url": "/app/admin/user/user-all"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "INFORMASI BERITA",
+      "children": [
+        {
+          "id": "1",
+          "name": "Kategori Berita",
+          "url": "/app/admin/news-category"
+        },
+        {
+          "id": "2",
+          "name": "Berita",
+          "url": "/app/admin/news"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "PENDIDIKAN",
+      "children": [
+        {
+          "id": "1",
+          "name": "Jenjang Pendidikan",
+          "url": "/app/admin/educational-stage"
+        },
+        {
+          "id": "2",
+          "name": "Education",
+          "url": "/app/admin/education"
+        }
+      ]
+    }
+  ]
+}
